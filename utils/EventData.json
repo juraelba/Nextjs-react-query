@@ -1,0 +1,52 @@
+[
+  {
+    "cardType": "eventCard",
+    "mobile": false,
+    "image": "/assets/image1.svg",
+    "date": "WED, JAN 20, 17:00 - 18:15 EEST",
+    "title": "Fireside Chat: Meet ACME CEO Amy Miller",
+    "description": "Office: District 2 HQ",
+    "teamMates": "150 teammates are going",
+    "attending": false
+  },
+  {
+    "cardType": "meetingCard",
+    "mobile": false,
+    "date": "Today, 18:15",
+    "title": "🍕 Let's Celebrate – Team Lunch",
+    "description": "Office: District 2 HQ · Pizza Place",
+    "attending": false,
+    "avatars": [
+      {
+        "name": "Marko", 
+        "url": "http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+      },
+      {
+        "name": "Marko", 
+        "url": "http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+      },
+      {
+        "name": "Marko", 
+        "url": "http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+      },
+      {
+        "name": "Marko", 
+        "url": "http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+      },
+      {
+        "name": "Marko", 
+        "url": "http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+      }
+    ]
+  },
+  {
+    "cardType": "eventCard",
+    "mobile": false,
+    "image": "/assets/image2.svg",
+    "date": "WED, JAN 20, 17:00 - 18:15 EEST",
+    "title": "Any mechanical keyboard enthusiasts in design?",
+    "description": "Office: District 2 HQ",
+    "teamMates": "150 teammates are going",
+    "attending": true
+  }
+]

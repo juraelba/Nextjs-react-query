@@ -1,0 +1,21 @@
+[
+  {
+    "cardType": "meetingCard",
+    "mobile": true,
+    "date": "Today, 18:15",
+    "title": "🍕 Celebrate Team Lunch",
+    "description": "Office: District 2 HQ",
+    "teamMates": "150 teammates are going",
+    "attending": false
+  },
+  {
+    "cardType": "eventCard",
+    "mobile": true,
+    "image": "/assets/image4.svg",
+    "date": "Today, 17:00 - 18:15",
+    "title": "Fireside Chat: Meet ACME CEO Amy Miller",
+    "description": "Office: District 2 HQ",
+    "teamMates": "150 teammates are going",
+    "attending": true
+  }
+]
